@@ -1,4 +1,4 @@
-module.exports = [
+const data = [
   { username: 'timidaginging', password: 'godwotterypeony' },
   { username: 'intermediabamb', password: 'sprycornflower' },
   { username: 'albifronsflass', password: 'malarkeyplanks' },
@@ -50,3 +50,5 @@ module.exports = [
   { username: 'hericiumcleep', password: 'fartlekpowder' },
   { username: 'cristatumhuppies', password: 'termitesstrider' }
 ];
+
+module.exports = data;
